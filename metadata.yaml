@@ -1,0 +1,27 @@
+_repo: Earliest-Years-at-VassarPersonal-Recollections_46080
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46080-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wood, Frances Ann
+    alias: Wood, Frances A.
+    birthdate: 1840
+    gutenberg_agent_id: '43602'
+    url: http://www.gutenberg.org/2009/agents/43602
+description: ''
+gutenberg_issued: '2014-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46080'
+  lccn: 09016219
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vassar College'
+- !lcc 'LD'
+title: 'Earliest Years at Vassar: Personal Recollections'
+url: http://www.gutenberg.org/ebooks/46080
